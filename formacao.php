@@ -73,3 +73,9 @@
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="ação.js"></script>
 </html>
+
+
+
+else if($dt_term_estudos < $dt_ini_estudos||$dt_ini_emprego < $dt_term_emprego){
+    echo "<script>alert('data inválida')</script>";
+}

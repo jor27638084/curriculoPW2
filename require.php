@@ -16,7 +16,7 @@ $estado = $_POST['estado'];
 $formação = $_POST['formação'];
 $inicio_estudos = $_POST['inicio'];
 $terminio_estudos = $_POST['terminio'];
-$obs_estudos = $_POST['observações'];
+$obs_estudos = $_POST['msg'];
 $empresa = $_POST['emprego'];
 $cargo = $_POST['função'];
 $inicio_emprego = $_POST['inicio_emprego'];
@@ -26,9 +26,30 @@ $nome_ref = $_POST['nome_ref'];
 $contato_ref = $_POST['contato_ref'];
 $email_ref = $_POST['email_ref']; 
 
+$dt_ini_estudos = strtotime($inicio_estudos);
+$dt_term_estudos = strtotime($terminio_estudos);
+$dt_ini_emprego = strtotime($inicio_emprego);
+$dt_term_emprego = strtotime($terminio_emprego);
 
+if( empty($nome)||empty($dt_nascimento)||empty($contato)||empty($sexo)||empty($email)||empty($rua)||empty($numero)||
+empty($bairro)||empty($cep)||empty($cidade)||empty($estado)||empty($formação)||empty($inicio_estudos)||empty($terminio_estudos)|| 
+empty($obs_estudos)||empty($empresa)||empty($cargo)||empty($inicio_emprego)||empty($terminio_emprego)||empty($obs_emprego)||
+empty($nome_ref)||empty($contato_ref)||empty($email_ref)){
 
-}
+    echo "<script>alert('Atenção! Preencha todos os campos para prosseguir')</script>";
+    require "index.php";
+
+}else if($dt_ini_estudos>$dt_term_estudos){
+
+    echo "<script>alert('Data do periodo de estudos inválida')</script>";
+    require "index.php";
+
+}else if($dt_ini_emprego>$dt_term_emprego){
+
+    echo "<script>alert('Data do periodo de emprego inválida')</script>";
+    require "index.php";
+}else{
+
 $texto = "<!DOCTYPE html>
 <html>
     <head>
@@ -108,7 +129,8 @@ $texto = "<!DOCTYPE html>
     <script type='text/javascript' src='bootstrap/js/bootstrap.min.js'></script>
     <script type='text/javascript' src='ação.js'></script>
 </html>";
-echo $texto;
+echo $texto;}
+    }
 ?>
  
 
