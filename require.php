@@ -1,6 +1,8 @@
 
 <?php
-$nome = $_POST["nome"];
+
+if($_POST){
+$nome = $_POST['nome'];
 $contato = $_POST['contato'];
 $sexo = $_POST['options'];
 $email = $_POST['email'];
@@ -103,8 +105,9 @@ $texto = "<!DOCTYPE html>
     <script type='text/javascript' src='bootstrap/js/bootstrap.min.js'></script>
     <script type='text/javascript' src='ação.js'></script>
 </html>";
-
 echo $texto;
+}
+
 ?>
  
 

@@ -87,12 +87,7 @@
                            
                             <textarea name="msg" class="form-control" placeholder="Observações"></textarea>
                             <button type="button" class="btn btn-primary" onclick="adcFormacao()">Adicionar mais uma formação</button>
-                            <?php
-                                    function adcFormacao(){
-
-                                        include "formacao.php";
-                                    }
-                            ?>
+                            
                         </div>
                         <div class="form-group">
                         <label for="">
