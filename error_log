@@ -1,0 +1,96 @@
+[20-Feb-2020 13:04:42 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:04:44 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:05:51 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:05:51 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:05:52 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:06:36 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:06:37 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:06:41 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:06:42 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 13:06:42 Brazil/East] PHP Parse error:  syntax error, unexpected 'formacao' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\index.php on line 102
+[20-Feb-2020 15:40:46 Brazil/East] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\curriculo\teste.php on line 3
+[20-Feb-2020 15:40:49 Brazil/East] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\curriculo\teste.php on line 3
+[20-Feb-2020 18:37:20 Brazil/East] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\curriculo\require.php on line 33
+[20-Feb-2020 22:27:24 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 30
+[20-Feb-2020 22:37:21 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 30
+[20-Feb-2020 22:38:18 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 30
+[20-Feb-2020 22:38:18 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 30
+[21-Feb-2020 11:13:58 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\require.php on line 30
+[21-Feb-2020 11:24:58 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\require.php on line 30
+[21-Feb-2020 11:25:01 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\require.php on line 30
+[21-Feb-2020 11:28:19 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\require.php on line 30
+[21-Feb-2020 11:35:49 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING), expecting ',' or ';' in C:\xampp\htdocs\curriculo\require.php on line 169
+[21-Feb-2020 11:38:22 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 169
+[21-Feb-2020 12:05:23 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 169
+[21-Feb-2020 14:21:03 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 169
+[21-Feb-2020 14:22:21 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 174
+[21-Feb-2020 14:26:34 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 174
+[21-Feb-2020 16:55:42 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 174
+[21-Feb-2020 17:04:44 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 174
+[21-Feb-2020 17:04:47 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 174
+[21-Feb-2020 17:07:20 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:07:36 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:07:37 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:07:41 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:07:43 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:09:03 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:09:06 Brazil/East] PHP Parse error:  syntax error, unexpected 'nome' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:10:29 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 174
+[21-Feb-2020 17:20:01 Brazil/East] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:20:04 Brazil/East] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:20:23 Brazil/East] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:21:13 Brazil/East] PHP Parse error:  syntax error, unexpected '>' in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:22:44 Brazil/East] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:22:45 Brazil/East] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:22:50 Brazil/East] PHP Parse error:  syntax error, unexpected '<' in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:23:35 Brazil/East] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:23:36 Brazil/East] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require.php on line 197
+[21-Feb-2020 17:37:23 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require.php on line 38
+[21-Feb-2020 17:41:02 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 61
+[21-Feb-2020 17:41:04 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 61
+[21-Feb-2020 17:41:13 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 61
+[21-Feb-2020 17:41:31 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 61
+[21-Feb-2020 17:41:34 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 61
+[21-Feb-2020 17:46:08 Brazil/East] PHP Parse error:  syntax error, unexpected '"' in C:\xampp\htdocs\curriculo\require.php on line 61
+[21-Feb-2020 17:59:51 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\teste.php on line 119
+[21-Feb-2020 17:59:53 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\teste.php on line 119
+[21-Feb-2020 18:00:41 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\teste.php on line 111
+[21-Feb-2020 18:03:11 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\teste.php on line 111
+[21-Feb-2020 18:06:46 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\teste.php on line 111
+[21-Feb-2020 18:06:51 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\teste.php on line 111
+[21-Feb-2020 18:23:08 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require2.php on line 38
+[21-Feb-2020 18:28:29 Brazil/East] PHP Parse error:  syntax error, unexpected '$formação' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require2.php on line 96
+[21-Feb-2020 18:29:01 Brazil/East] PHP Parse error:  syntax error, unexpected '$terminio_estudos' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require2.php on line 97
+[21-Feb-2020 18:29:02 Brazil/East] PHP Parse error:  syntax error, unexpected '$terminio_estudos' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require2.php on line 97
+[21-Feb-2020 18:29:06 Brazil/East] PHP Parse error:  syntax error, unexpected '$terminio_estudos' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require2.php on line 97
+[21-Feb-2020 18:30:24 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require2.php on line 38
+[21-Feb-2020 18:36:32 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\require2.php on line 122
+[21-Feb-2020 18:36:35 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\require2.php on line 122
+[21-Feb-2020 18:48:38 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\require2.php on line 122
+[21-Feb-2020 18:48:42 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\require2.php on line 122
+[21-Feb-2020 18:48:57 Brazil/East] PHP Parse error:  syntax error, unexpected 'utf' (T_STRING) in C:\xampp\htdocs\curriculo\require2.php on line 38
+[23-Feb-2020 18:48:37 Brazil/East] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\curriculo\require.php on line 83
+[23-Feb-2020 19:25:40 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 117
+[23-Feb-2020 19:26:03 Brazil/East] PHP Warning:  Use of undefined constant formulario - assumed 'formulario' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:26:03 Brazil/East] PHP Warning:  Use of undefined constant html - assumed 'html' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:26:03 Brazil/East] PHP Warning:  Use of undefined constant texto - assumed 'texto' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:26:03 Brazil/East] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:28:25 Brazil/East] PHP Warning:  Use of undefined constant formulario - assumed 'formulario' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:28:25 Brazil/East] PHP Warning:  Use of undefined constant html - assumed 'html' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:28:25 Brazil/East] PHP Warning:  Use of undefined constant texto - assumed 'texto' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:28:25 Brazil/East] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:29:10 Brazil/East] PHP Warning:  Use of undefined constant formulario - assumed 'formulario' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:29:10 Brazil/East] PHP Warning:  Use of undefined constant html - assumed 'html' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:29:10 Brazil/East] PHP Warning:  Use of undefined constant texto - assumed 'texto' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:29:10 Brazil/East] PHP Warning:  fwrite() expects parameter 1 to be resource, string given in C:\xampp\htdocs\curriculo\require.php on line 114
+[23-Feb-2020 19:45:27 Brazil/East] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\curriculo\require.php on line 203
+[23-Feb-2020 19:45:30 Brazil/East] PHP Parse error:  syntax error, unexpected '}' in C:\xampp\htdocs\curriculo\require.php on line 203
+[23-Feb-2020 19:48:40 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\require.php on line 213
+[23-Feb-2020 19:51:19 Brazil/East] PHP Parse error:  syntax error, unexpected '*' in C:\xampp\htdocs\curriculo\require.php on line 115
+[23-Feb-2020 19:51:40 Brazil/East] PHP Warning:  Unterminated comment starting line 117 in C:\xampp\htdocs\curriculo\require.php on line 117
+[23-Feb-2020 19:51:40 Brazil/East] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\curriculo\require.php on line 130
+[23-Feb-2020 20:18:51 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 60
+[23-Feb-2020 20:19:06 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 60
+[23-Feb-2020 20:19:18 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 60
+[23-Feb-2020 20:19:24 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 60
+[23-Feb-2020 20:19:42 Brazil/East] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\curriculo\require.php on line 60
