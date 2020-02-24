@@ -38,13 +38,13 @@
             <div class="row">
                 <div class="col-md-12">
                 <h1>Cadastre já seu curriculo</h1>
-                    <form class-="form-horizontal" action="require.php" methode="post" >
+                    <form class-="form-horizontal" action="require.php" method="post" >
                         <div class="form-group">
                         <label for="nome">
                         Dados Pessoais
                         </label>
                            <br> <input class="form-control" type="text" name="nome" id="nome" placeholder="nome" style="width:50%; display:inline-Block;">
-                               <label> Nascimento:</label> <input class="form-control" type="date" name="nome" placehouder="Data de nascimento" style="width:15%; display:inline-Block;">
+                                Nascimento: <input class="form-control" type="date" name="nascimento" placehouder="Data de nascimento" style="width:15%; display:inline-Block;">
                         <div class="radio">
                             <label for="sexo" >
                                 Sexo:<br>
@@ -108,7 +108,7 @@
                             </label>
                             <input class="form-control" type="text" name="nome_ref" placeholder="Nome">
                             <input class="form-control" type="tel" name="contato_ref" placeholder="Contato">
-                            <input class="form-control" type="emil" name="email_ref" placeholder="email">
+                            <input class="form-control" type="email" name="email_ref" placeholder="email">
                         </div>
                         <button class="btn btn-danger" type="submit">Cadastrar</button>
                     </form>

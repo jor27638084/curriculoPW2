@@ -97,3 +97,4 @@
 [23-Feb-2020 22:42:36 Brazil/East] PHP Fatal error:  Cannot use [] for reading in C:\xampp\htdocs\curriculo\require.php on line 4
 [23-Feb-2020 22:46:30 Brazil/East] PHP Fatal error:  Cannot use [] for reading in C:\xampp\htdocs\curriculo\require.php on line 4
 [23-Feb-2020 23:14:34 Brazil/East] PHP Parse error:  syntax error, unexpected '$texto' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require.php on line 29
+[24-Feb-2020 10:06:53 Brazil/East] PHP Parse error:  syntax error, unexpected '$contato' (T_VARIABLE) in C:\xampp\htdocs\curriculo\require.php on line 7

@@ -3,6 +3,7 @@
 
 if($_POST){
 $nome = $_POST['nome'];
+$dt_nascimento = $_POST['nascimento'];
 $contato = $_POST['contato'];
 $sexo = $_POST['options'];
 $email = $_POST['email'];
@@ -26,6 +27,8 @@ $contato_ref = $_POST['contato_ref'];
 $email_ref = $_POST['email_ref']; 
 
 
+
+}
 $texto = "<!DOCTYPE html>
 <html>
     <head>
@@ -106,8 +109,6 @@ $texto = "<!DOCTYPE html>
     <script type='text/javascript' src='ação.js'></script>
 </html>";
 echo $texto;
-}
-
 ?>
  
 
