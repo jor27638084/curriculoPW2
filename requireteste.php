@@ -1,7 +1,7 @@
 
 <?php
 
-if($_POST){
+
 // $nome = $_POST['nome'];
 // $dt_nascimento = $_POST['nascimento'];
 // $contato = $_POST['contato'];
@@ -26,29 +26,8 @@ $obs_emprego = $_POST['observações_emprego'];
 // $contato_ref = $_POST['contato_ref'];
 // $email_ref = $_POST['email_ref']; 
 
-$dt_ini_estudos = strtotime($inicio_estudos);
-$dt_term_estudos = strtotime($terminio_estudos);
-$dt_ini_emprego = strtotime($inicio_emprego);
-$dt_term_emprego = strtotime($terminio_emprego);
 
-if( empty($nome)||empty($dt_nascimento)||empty($contato)||empty($sexo)||empty($email)||empty($rua)||empty($numero)||
-empty($bairro)||empty($cep)||empty($cidade)||empty($estado)||empty($formação)||empty($inicio_estudos)||empty($terminio_estudos)|| 
-empty($obs_estudos)||empty($empresa)||empty($cargo)||empty($inicio_emprego)||empty($terminio_emprego)||empty($obs_emprego)||
-empty($nome_ref)||empty($contato_ref)||empty($email_ref)){
 
-    echo "<script>alert('Atenção! Preencha todos os campos para prosseguir')</script>";
-    require "index.php";
-
-}else if($dt_ini_estudos>$dt_term_estudos){
-
-    echo "<script>alert('Data do periodo de estudos inválida')</script>";
-    require "index.php";
-
-}else if($dt_ini_emprego>$dt_term_emprego){
-
-    echo "<script>alert('Data do periodo de emprego inválida')</script>";
-    require "index.php";
-}else{
 
 $texto = "<!DOCTYPE html>
 <html>
@@ -133,21 +112,10 @@ $texto = "<!DOCTYPE html>
     </body>
     <script type='text/javascript' src='js/jquery.min.js'></script>
     <script type='text/javascript' src='bootstrap/js/bootstrap.min.js'></script>
-    <script>
-        $(document).ready(function(){
-            let = '<div class='col-md-4'>'+
-            '<h2><b>Formação</b><br></h2>'+
-               '<p> Instituição de Ensino: ".$formação."</p>'+
-               ' <p>Período: ".$inicio_estudos. "- ".$terminio_estudos."</p>'+
-                '<p>Observações: ".$obs_estudos."</p><br>';
-                for(int x = 0; x <= escolaridade){
-                    $('#formacao').append( escolaridade + campo );
-                }
-            })
-    </script>
+    
 </html>";
-echo $texto;}
-    }
+echo $texto;
+    
 ?>
  
 

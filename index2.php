@@ -38,43 +38,8 @@
             <div class="row">
                 <div class="col-md-12">
                 <h1>Cadastre já seu curriculo</h1>
-                    <form class-="form-horizontal" action="require.php" method="post" >
-                        <div class="form-group">
-                        <label for="nome">
-                        Dados Pessoais
-                        </label>
-                           <br> <input class="form-control" type="text" name="nome" id="nome" placeholder="nome" style="width:50%; display:inline-Block;">
-                                Nascimento: <input class="form-control" type="date" name="nascimento" placehouder="Data de nascimento" style="width:15%; display:inline-Block;">
-                        <div class="radio">
-                            <label for="sexo" >
-                                Sexo:<br>
-                            
-                                <input type="radio" name="options" value="1"> masculino<br>
-                                <input type="radio" name="options" value="2"> feminino
-                            </label>
-                        </div>
-                        </div>
+                    <form class-="form-horizontal" action="requireteste.php" method="post" >
                         
-                        <div class="form-group">
-                        <label for="contato">
-                        Contato
-                        </label>
-                            <input class="form-control" type="tel" name="contato" style="width:30%; display:inline-Block;" placeholder="Celular/Telefone">
-                            <input class="form-control" type="email" name="email" style="width:50%; display:inline-Block;" placeholder="Email">
-                        </div>
-                        <div class="form-group">
-                        
-                        <div class="form-group" style="display:inline-Block;">
-                        <label for="rua">
-                        Endereço<br>
-                        </label>
-                            <input class="form-control" type="text" name="rua" placeholder="Rua" style="width:50%; display:inline-Block;">
-                            <input class="form-control" type="text" name="numero" placeholder="N°" style="width:10%; display:inline-Block;">
-                            <input class="form-control" type="text" name="bairro" placeholder="Bairro">
-                            <input class="form-control" type="text" name="cep" placeholder="Cep">
-                            <input class="form-control" type="text" name="cidade" placeholder="Cidade">
-                            <input class="form-control" type="text" name="estado" placeholder="Estado">
-                        </div>
                         <div class="form-group" id="campo_formacao">
                         <label>
                         Formação
@@ -102,14 +67,7 @@
                             
                         </div>
                             <button type="button" class="btn btn-primary emprego">Adicionar mais uma experência</button>
-                        <div class="form-group">
-                            <label for="">
-                            Referencias: 
-                            </label>
-                            <input class="form-control" type="text" name="nome_ref" placeholder="Nome">
-                            <input class="form-control" type="tel" name="contato_ref" placeholder="Contato">
-                            <input class="form-control" type="email" name="email_ref" placeholder="email">
-                        </div>
+                    
                         <button class="btn btn-danger" type="submit">Cadastrar</button>
                     </form>
                 </div>
