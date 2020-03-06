@@ -49,7 +49,7 @@
                             <label for="sexo" >
                                 Sexo:<br>
                             
-                                <input type="radio" name="options" value="1"> masculino<br>
+                                <input type="radio" name="options" value="1" > masculino<br>
                                 <input type="radio" name="options" value="2"> feminino
                             </label>
                         </div>
@@ -79,7 +79,7 @@
                         <label>
                         Formação
                         </label>
-                            <input class="form-control" type="text" name="formação[]" placeholder="Instituição de ensino">  
+                            <input class="form-control" type="text" name="formacao[]" placeholder="Instituição de ensino">  
                             Inicio: 
                             <input class="form-control" type="date" name="inicio[]" style="width:30%; display:inline-Block;">
                             Términio
